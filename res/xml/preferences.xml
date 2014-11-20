@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <Preference 
+        android:enabled="true"
+        android:title="Thing"
+        android:summary="More stuff here\nMore things here\nAnd more things..."
+        />
+    
+    <ListPreference 
+        android:title="Color Scheme"
+        android:summary="Choose some colors"
+        android:entries="@array/color_names_human"
+        android:entryValues="@array/color_names"
+        android:key="color_scheme"
+        android:defaultValue="nexus"
+        />
+
+</PreferenceScreen>

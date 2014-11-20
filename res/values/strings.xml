@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Neural LWP</string>
+	<string name="wallpaper_nexus_author">Indrora</string>
+	<string name="wallpaper_nexus_desc">The neural network has you...</string>
+	<string name="wallpaper_nexus">Neural</string>
+</resources>

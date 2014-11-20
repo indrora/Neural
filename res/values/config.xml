@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <bool name="config_enable_nexus_wallpaper">true</bool>
+        
+        <string-array name="color_names_human">
+            <item>Nexus</item>
+            <item>Cyanogen</item>
+            <item>Halloween</item>
+            <item>Grey</item>
+        </string-array>
+        
+        <string-array name="color_names">
+            <item>nexus</item>
+            <item>cyanogen</item>
+            <item>halloween</item>
+            <item>grey</item>
+        </string-array>
+
+        <string-array name="color_values">
+            <item>#FF0000:#00CC00:#0066E6:#FFCC00</item>
+            <item>#009999:#1D7373:#006363:#33CCCC</item>
+            <item>#00AF64:#04859D:#FF7C00:#FF4900</item>
+            <item>#AAAAAA:#444444:#DDDDDD:#666666</item>
+        </string-array>
+</resources>

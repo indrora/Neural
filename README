@@ -1,0 +1,20 @@
+Nexus Neural Network LWP
+
+This wallpaper is based on the AOSP nexus live wallpaper. The code within is from ``Cyanogenmod/android_packages_wallpapers_Basic'' in the cm10.1 branch.
+
+I'll muck about with some of the innards, backport features around, etc. I want this to be the configurable one that I remember from CM7.
+
+Things I've changed:
+
+* CM7 had color schemes for this wallpaper: I want them back
+* Somewhere along the line, this was used to demonstrate hdpi vs mdpi resolutions. I want to avoid that. A lot of things will probably be moved into drawable-nodpi
+
+Things I'm looking to change:
+
+* Custom colors: there's some good libraries for this
+* Clean up nexus.rs -- I need to learn me some RenderScript.
+
+This code is probably unstable, unsafe, and possibly dangerous. No warranties, caveat emptor, etc. etc. etc.
+
+This was originally licensed under Apache 2.0 - This will stay. See the NOTICE file for details.
+
