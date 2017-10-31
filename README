@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Findrora%2FNeural.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Findrora%2FNeural?ref=badge_shield)
+
 Nexus Neural Network LWP
 
 This wallpaper is based on the AOSP nexus live wallpaper. The code within is from ``Cyanogenmod/android_packages_wallpapers_Basic'' in the cm10.1 branch.
@@ -18,3 +20,7 @@ This code is probably unstable, unsafe, and possibly dangerous. No warranties, c
 
 This was originally licensed under Apache 2.0 - This will stay. See the NOTICE file for details.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Findrora%2FNeural.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Findrora%2FNeural?ref=badge_large)
